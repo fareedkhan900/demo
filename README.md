@@ -1,2 +1,2 @@
 # demo
-Studing regarding python
+Studing regarding java
